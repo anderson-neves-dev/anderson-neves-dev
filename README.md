@@ -30,6 +30,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
     <img align="center" alt="python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
     <img align="center" alt="python" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/sql-025E8C.svg?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
   </div>
 
   ## 📫 Entre em contato comigo

@@ -3,8 +3,10 @@
 ## Olá! Eu sou o Anderson Neves 🖐️
 
 #### Com uma sólida base em informática, que abrange desde programação até a gestão de bancos de dados, sou um profissional proativo e comprometido com a qualidade e estou constantemente explorando novas tecnologias e tendências para manter-me atualizado.
-#### Minhas habilidades abrangem uma ampla gama de tecnologias, desde as fundamentais como HTML5, CSS3, JavaScript e TypeScript (o que me permite escrever código mais seguro e eficiente) até frameworks modernos como React e bibliotecas como Tailwind CSS para estilização. Possuo experiência em Node.js para o desenvolvimento de APIs e microserviços, combinado com o framework Nest.js para construir aplicações escaláveis e bem estruturadas, aproveitando sua arquitetura modular e robusta.
-#### Atualmente, no meu estágio na Compass UOL, estou aprendendo e aplicando o Python com Spark para análise e processamento de grandes volumes de dados, destacando sua eficiência e escalabilidade. Além disso, possuo conhecimento em bancos de dados SQL e NoSQL, incluindo MySQL e MongoDB, o que me permite projetar e otimizar soluções de armazenamento de dados.
+#### Minhas habilidades abrangem uma ampla gama de tecnologias, desde as fundamentais como HTML5, CSS3, JavaScript e TypeScript (o que me permite escrever código mais seguro e eficiente) até frameworks modernos como React e bibliotecas como Tailwind CSS para estilização. Possuo experiência em Node.js para o desenvolvimento de APIs e microserviços, combinado com o framework Nest.js para construir aplicações escaláveis e bem estruturadas, aproveitando sua arquitetura modular e robusta. Além disso, possuo conhecimento em bancos de dados SQL e NoSQL, incluindo MySQL e MongoDB, o que me permite projetar e otimizar soluções de armazenamento de dados.
+
+#### Atualmente, durante meu estágio na Compass UOL, estou ampliando meu conhecimento em Python e Spark para análise e processamento de grandes volumes de dados, aproveitando sua eficiência e escalabilidade. Também estou adquirindo experiência com AWS para gerenciar e otimizar soluções em nuvem.
+
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-neves-dev&show_icons=true&theme=tokyonight&count_private=true)
 
